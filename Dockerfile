@@ -1,4 +1,4 @@
-FROM registry.redhat.io/codeready-workspaces/stacks-cpp-rhel8:2.14-9
+FROM gcc
 MAINTAINER Eduardo Arango <carangog@redhat.com>
 
 USER root
